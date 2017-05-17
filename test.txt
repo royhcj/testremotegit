@@ -3,5 +3,6 @@ This is line 1.
 Repo 1 and Repo 2 edited this line.
 This is line 2.
 Edited in branch featureA.
+Edited again after merge.
 This is line 3.
 
