@@ -6,3 +6,4 @@ Edited this line in both master and featureA branches.
 Edited again after merge.
 This is line 3.
 Edited in master after merge.
+Edited again after merging with master.
