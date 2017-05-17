@@ -4,4 +4,4 @@ Repo 1 and Repo 2 edited this line.
 This is line 2.
 Edited this line in both master and featureA branches.
 This is line 3.
-
+Edited in master after merge.
